@@ -49,9 +49,8 @@ var number;
 do {
     number = prompt("Введите число > 100");
 } while (number <= 100 && number != null);
-*/
 
-//7. Вывести простые числа
+7. Вывести простые числа
 simpleNumbers:
 for (let i = 2; i <= 10; i++) {
     for (let j = 2; j < i; j++) {
@@ -59,5 +58,5 @@ for (let i = 2; i <= 10; i++) {
     }
    console.log( i );
 }
-
+*/
 
