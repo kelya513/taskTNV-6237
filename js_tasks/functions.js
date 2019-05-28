@@ -293,7 +293,7 @@ function returnType(value) {
 returnType(37);
 returnType("Value");
 returnType(false);
-*/
+
 
 //16. Write a JavaScript function which returns the n rows by n columns identity matrix.
 function matrix(n) {
@@ -313,3 +313,6 @@ function matrix(n) {
     }
 }
 matrix(3);
+*/
+
+//17. 
